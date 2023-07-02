@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://msharbaji.github.io/sitemap.xml
+Sitemap: https://msharbaji.github.io/msharbaji.github.io/sitemap.xml
